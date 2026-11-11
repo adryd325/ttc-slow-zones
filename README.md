@@ -5,7 +5,7 @@ The TTC's internal slow-zone list changes multiple times a day and publsihed dat
 
 Updated: Wed Nov 11 2026 10:31:00 GMT-0500 (Eastern Standard Time)
 
-![Current](./current.png)
+![Current](./map-current.png)
 
 
 ```diff
