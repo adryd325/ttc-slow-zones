@@ -3,7 +3,7 @@ This repository tracks changes of the [TTC's reduced speed zones](https://www.tt
 
 The TTC's internal slow-zone list changes multiple times a day and publsihed data lags behind, so this repo isn't *perfect*
 
-Updated: Wed Nov 11 2026 10:31:00 GMT-0500 (Eastern Standard Time)
+Updated: 2026-11-16 10:4
 
 ![Current](./map-current.png)
 
@@ -15,11 +15,11 @@ Updated: Wed Nov 11 2026 10:31:00 GMT-0500 (Eastern Standard Time)
   | 1  | St. Clair West | Cedarvale     | North towards VMC    |
   | 1  | St. Clair West | Dupont        | South towards Finch  |
   | 1  | Spadina        | Dupont        | North towards VMC    |
-  | 1  | Museum         | St. George    | North towards VMC    |
+- | 1  | Museum         | St. George    | North towards VMC    |
   | 1  | Union          | King          | North towards Finch  |
   | 1  | Queen          | TMU           | North towards Finch  |
   | 1  | TMU            | College       | North towards Finch  |
   | 1  | Bloor-Yonge    | Rosedale      | North towards Finch  |
   | 1  | Davisville     | Eglinton      | North towards Finch  |
-  | 2  | Warden         | Victoria Park | West towards Kipling |
+- | 2  | Warden         | Victoria Park | West towards Kipling |
 ```
