@@ -2,26 +2,6 @@
   {
     "table": [
       [
-        "Northbound Spadina to Dupont",
-        "183",
-        "559",
-        "33",
-        "20",
-        "48",
-        "Track issue",
-        "Late November"
-      ],
-      [
-        "Northbound St Clair West to Cedarvale",
-        "582",
-        "2,617",
-        "22",
-        "35",
-        "53",
-        "Track issue",
-        "Late November"
-      ],
-      [
         "Northbound Wilson to Sheppard West",
         "410",
         "2,032",
@@ -71,7 +51,7 @@
         "152",
         "437",
         "35",
-        "25",
+        "15",
         "44",
         "Track issue",
         "TBD"
@@ -87,16 +67,6 @@
         "Late November"
       ],
       [
-        "Northbound Bloor-Yonge to Rosedale",
-        "305",
-        "743",
-        "41",
-        "15",
-        "56",
-        "Track issue",
-        "Late November"
-      ],
-      [
         "Northbound Davisville to Eglinton",
         "174",
         "895",
@@ -104,7 +74,7 @@
         "40",
         "48",
         "Track issue",
-        "Early December"
+        "TBD"
       ]
     ],
     "headings": [

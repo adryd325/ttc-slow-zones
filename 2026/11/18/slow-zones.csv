@@ -1,0 +1,7 @@
+line,fromStation,toStation,directionTerminus,direction,order,affectedLengthMeters,percentUnderReduceSpeed,reducedSpeedKmph,normalSpeedKmph,distanceBetweenStnsMeters,reason,targetRemoval
+1,Wilson,Sheppard West,VMC,North,7,410,20,35,71,2032,Track issue,Late November
+1,St. Clair West,Dupont,Finch,South,12,279,19,25,65,1441,Track issue,Late November
+1,Union,King,Finch,North,21,168,37,20,36,454,Track issue,TBD
+1,Queen,TMU,Finch,North,23,152,35,15,44,437,Track issue,TBD
+1,TMU,College,Finch,North,24,251,50,15,49,501,Track issue,Late November
+1,Davisville,Eglinton,Finch,North,31,174,19,40,48,895,Track issue,TBD
